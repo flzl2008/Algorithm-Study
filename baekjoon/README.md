@@ -11,14 +11,14 @@
 2.normal
 3.hard
 
- No    | Challenge                                                                   | Solution                                        | Memory   | Time    | Difficulty   
- ----- | --------------------------------------------------------------------------- | ----------------------------------------------- | -------- | ------- | ------- 
- 1525 | [퍼즐](https://www.acmicpc.net/problem/1525)                                | [Main.java](src/boj1525/Main.java) | 19520 KB |   752 MS | 2
- 1914 | [하노이탑](https://www.acmicpc.net/problem/1914)                                | [Main.java](src/boj1914/Main.java) | 61776 KB |   3048 MS |2
- 2294 | [동전2](https://www.acmicpc.net/problem/2294)                                | [Main.java](src/boj2294/Main.java) | 9216 KB |   140 MS |2
-2747 | [피보나치수](https://www.acmicpc.net/problem/2747)                                | [Main.java](src/boj2747/Main.java) | 9476 KB |   100 MS|1
-7569 | [토마토](https://www.acmicpc.net/problem/7569)                                | [Main.java](src/boj7569/Main.java) | 25844 KB |   1600 MS|2
-11047 | [동전0](https://www.acmicpc.net/problem/11047)                                | [Main.java](src/boj11047/Main.java) | 9468 KB |   100 MS|1
+ No    | Challenge                                          | Solution                               | Memory   | Time    | Difficulty   
+ ----- | ----------------------------------------------------| ------------------------------------- | -------- | ------- | ------- 
+ 1525 | [퍼즐](https://www.acmicpc.net/problem/1525)          | [Main.java](src/boj1525/Main.java) | 19520 KB | 752 MS | 2
+ 1914 | [하노이탑](https://www.acmicpc.net/problem/1914)      | [Main.java](src/boj1914/Main.java) | 61776 KB | 3048 MS |2
+ 2294 | [동전2](https://www.acmicpc.net/problem/2294)         | [Main.java](src/boj2294/Main.java) | 9216 KB | 140 MS |2
+2747 | [피보나치수](https://www.acmicpc.net/problem/2747)     | [Main.java](src/boj2747/Main.java) | 9476 KB | 100 MS|1
+7569 | [토마토](https://www.acmicpc.net/problem/7569)         | [Main.java](src/boj7569/Main.java) | 25844 KB | 1600 MS|2
+11047 | [동전0](https://www.acmicpc.net/problem/11047)        | [Main.java](src/boj11047/Main.java) | 9468 KB | 100 MS|1
   
   
  
