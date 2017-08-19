@@ -13,17 +13,18 @@
 
  No    | Challenge                                          | Solution                               | Memory   | Time    | Difficulty   
  ----- | ----------------------------------------------------| ------------------------------------- | -------- | ------- | ------- 
- 1525 | [퍼즐](https://www.acmicpc.net/problem/1525)          | [Main.java](src/boj1525/Main.java) | 19520 KB | 752 MS | 2
- 1914 | [하노이탑](https://www.acmicpc.net/problem/1914)      | [Main.java](src/boj1914/Main.java) | 61776 KB | 3048 MS |2
- 2294 | [동전2](https://www.acmicpc.net/problem/2294)         | [Main.java](src/boj2294/Main.java) | 9216 KB | 140 MS |2
+1194 | [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)          | [Main.java](src/boj1194/Main.java) | 15008 KB | 352 MS | 2
+1525 | [퍼즐](https://www.acmicpc.net/problem/1525)          | [Main.java](src/boj1525/Main.java) | 19520 KB | 752 MS | 2
+1914 | [하노이탑](https://www.acmicpc.net/problem/1914)      | [Main.java](src/boj1914/Main.java) | 61776 KB | 3048 MS |2
+2294 | [동전2](https://www.acmicpc.net/problem/2294)         | [Main.java](src/boj2294/Main.java) | 9216 KB | 140 MS |2
 2747 | [피보나치수](https://www.acmicpc.net/problem/2747)     | [Main.java](src/boj2747/Main.java) | 9476 KB | 100 MS|1
 7569 | [토마토](https://www.acmicpc.net/problem/7569)         | [Main.java](src/boj7569/Main.java) | 25844 KB | 1600 MS|2
 11047 | [동전0](https://www.acmicpc.net/problem/11047)        | [Main.java](src/boj11047/Main.java) | 9468 KB | 100 MS|1
-13460 | [째로탈출2](https://www.acmicpc.net/problem/13460)    | [Main.java](src/boj13460/Main.java) | 9500 KB | 100 MS|2
-13567 | [로봇](https://www.acmicpc.net/problem/13567)    | [Main.java](src/boj13567/Main.java) | 9484 KB | 108 MS|1
-13565 | [침투](https://www.acmicpc.net/problem/13565)    | [Main.java](src/boj13565/Main.java) | 18900 KB | 696 MS|1
 13335 | [트럭](https://www.acmicpc.net/problem/13335)    | [Main.java](src/boj13335/Main.java) | 10572 KB | 164 MS|1
+13460 | [째로탈출2](https://www.acmicpc.net/problem/13460)    | [Main.java](src/boj13460/Main.java) | 9500 KB | 100 MS|2
+13565 | [침투](https://www.acmicpc.net/problem/13565)    | [Main.java](src/boj13565/Main.java) | 18900 KB | 696 MS|1
+13567 | [로봇](https://www.acmicpc.net/problem/13567)    | [Main.java](src/boj13567/Main.java) | 9484 KB | 108 MS|1
 14502 | [연구소](https://www.acmicpc.net/problem/14502)    | [Main.java](src/boj14502/Main.java) | 12464 KB | 948 MS|1
-  
+
   
  
